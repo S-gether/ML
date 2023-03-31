@@ -1,5 +1,0 @@
-train: /media/hi/SK Gold P31/GSC/MobilePhoneV5/images/train
-val: /media/hi/SK Gold P31/GSC/MobilePhoneV5/images/val
-
-nc: 1
-names: ['Mobile-phone']

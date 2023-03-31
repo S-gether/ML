@@ -1,6 +1,0 @@
-train: /media/hi/SK Gold P31/GSC/Merge_All/images/train
-val: /media/hi/SK Gold P31/GSC/Merge_All/images/val
-test: /media/hi/SK Gold P31/GSC/Merge_All/images/test
-
-nc: 2
-names: ['Person', 'Phone']

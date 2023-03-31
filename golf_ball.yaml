@@ -1,6 +1,0 @@
-train: /home/hi/Jupyter/YOLOv5_Test_TransferLearning/Dataset/Roboflow6_5k_BG20k_2k/images/train
-val: /home/hi/Jupyter/YOLOv5_Test_TransferLearning/Dataset/Roboflow6_5k_BG20k_2k/images/val
-test: /home/hi/Jupyter/YOLOv5_Test_TransferLearning/Dataset/Roboflow6_5k_BG20k_2k/images/test
-
-nc: 1
-names: ['golf_ball']

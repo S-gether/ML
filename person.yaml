@@ -1,9 +1,0 @@
-# 1. Dataset 경로 from YOLOv5 폴더
-train: /media/hi/SK Gold P31/GSC/Human/images/train
-val: /media/hi/SK Gold P31/GSC/Human/images/val
-
-# 2. Class 개수
-nc: 1
-
-# 3. Class 이름 (0 : Human)
-names: ['Human']

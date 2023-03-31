@@ -1,5 +1,0 @@
-train: /media/hi/SK Gold P31/Capstone/Merge_All/images/train
-val: /media/hi/SK Gold P31/Capstone/Merge_All/images/val
-
-nc: 3
-names: ['Person', 'Person_Face', 'GolfBall']
